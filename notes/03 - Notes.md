@@ -59,3 +59,68 @@ Things people...
     - The **problem** people are facing
     - What the **desired outcome** is
     - What they're most likely to **do** to solve it - with or without your website!
+
+---
+
+<br />
+
+## Documenting Requirements
+
+- Whatever requirements you create, you **need to document them**.
+- There is a common misunderstanding that following a **Lean or Agile methodology** means no documentation of any kind
+  - This is obviously not true
+  - It means **less** documentation - not no documentation.
+
+**Documentation eliminates excuses**
+- If decisions are documented and shared, **anyone** at any time can pull up that document and get educated on the project.
+- You don't have to write a novel; just **capture it** somewhere, somehow.
+- Make sure every person involved has **access** to it.
+- As requirements are **approved**, that approval is noted as well (in the documents available to **everyone**)
+
+---
+
+<br />
+
+## Determining Project Scope
+
+*When it come to interacting with clients, partners or fellow team members: **Silence Equals Agreement.***
+
+<br />
+
+### Controlling Scope Creep
+
+*During the initial stages of any project, you can bet on two things happening:*
+  - Everybody and their brother will have ideas about features.
+  - There will be a significant number of questions surrounding content, features, and functions
+
+<br />
+
+#### **1. Document assumptions for anything you don't know**
+
+- **example:** (What you would put in the documents to assume authentication will not be handled by my team.)
+
+*"The scope of work and estimated cost assumes that we will not integrate data or facilitate the exchange of secure data from the website to the reporting system.*
+    
+We will provide a direct link on the home page of the website which will take the user to the login screen of the reporting system, where they will enter their login credentials.*
+
+*Any functionality beyond this will be estimated separately."*
+
+- You just described what you are agreeing to do very clearly, and you are stating that **anything outside this will take more time and cost more money**.
+- You are also helping the client in pointing out that **this is a topic that needs to be discussed further** if it matters to them.
+- **For every similar instance, you add an assumption.** Until you have a page containing a *list* of assumptions for your proposal and contract for services.
+
+<br />
+
+#### **2. Document what you're doing right now**
+While this is the time for idea generation and brainstorming, it's also important to draw a clear line between **what's doable right now** versus what has to wait for later.
+- Every additional feature requires **time, budget,** and **talent** - which you may or may not have.
+- "Anything can be done." - The question is **how long will it take to do it**?
+- When you don't know the answer to that question, you keep a **running list** that you have to pay attention to.
+
+![Documenting doable now vs waiting](./images/03%20-%20Notes%20-%20DeterminingProjectScope.png)
+
+<br />
+
+<br />
+
+## *If you're doing it without the list, **You're guessing!** Write it down.*

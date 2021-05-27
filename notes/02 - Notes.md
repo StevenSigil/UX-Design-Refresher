@@ -178,7 +178,7 @@ Patience is extremely important here; let the **silence** following the question
 - How much do they need to **see** or **hear** or **interact with** in order to act?
 - How should all of that be **organized** and **prioritized**?
 
-![Decision Path](./images/Decision%20Path.png)
+![Decision Path](./images/02%20-%20Notes%20-%20Decision%20Path.png)
 
 <br />
 
@@ -202,5 +202,5 @@ The most important principle of good UI/UX is **Progressive Disclosure**.
 ## Online **BookStore Example** - Decision Path - **sell more books**
 <br />
 
-![Online BookStore Example Decision Path](./images/03%20-%20Notes%20-%20BookStore%20Example%20-%20Decision%20Path.png)
+![Online BookStore Example Decision Path](./images/02%20-%20Notes%20-%20BookStore%20Example%20-%20Decision%20Path.png)
 
