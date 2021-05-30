@@ -1,4 +1,4 @@
-# Introduction to Requirements
+# Introduction to *Requirements*
 
 ## Generating Requirements
 
@@ -105,9 +105,13 @@ We will provide a direct link on the home page of the website which will take th
 
 *Any functionality beyond this will be estimated separately."*
 
+<br />
+
 - You just described what you are agreeing to do very clearly, and you are stating that **anything outside this will take more time and cost more money**.
 - You are also helping the client in pointing out that **this is a topic that needs to be discussed further** if it matters to them.
 - **For every similar instance, you add an assumption.** Until you have a page containing a *list* of assumptions for your proposal and contract for services.
+
+<br />
 
 <br />
 
@@ -123,4 +127,42 @@ While this is the time for idea generation and brainstorming, it's also importan
 
 <br />
 
-## *If you're doing it without the list, **You're guessing!** Write it down.*
+### *If you're doing it without the list, **You're guessing!** Write it down.*
+
+<br />
+
+---
+
+<br />
+
+## Buy a Feature 
+*Game to play with Users and Clients to choose features they'd like to see in the finished website*
+
+**Steps to "Play":**
+
+1. Create a list of website features.
+    - Create a list of features for a made-up website (or a current project) **no more than 30 features total**.
+    - Consider:
+      - Features suggested by **users**
+      - Features suggested by your **client**
+      - Features that have been implemented by **rival websites**
+    - Features should be **user-focused** (ie: not optimization, sql, etc...)
+    - Each feature should include a **name** and **short description** outlining what the feature is and what the **benefits** to the user are.
+
+2. Assign a price to each feature.
+    - Give each feature a price related to the **complexity to implement** the feature.
+    - A feature that's twice as complex as another should be **twice as expensive**.
+    - This is just to illustrate differences in complexity.
+    - Create **feature cards** that outline the feature name, what id does and how much it costs.
+      - **Template in root folder**
+
+3. Choose how much money to provide.
+    - If you give them **too much**, people won't have to think hard enough about the features they buy.
+    - if you give them **too little**, they won't be able to buy the features they need.
+    - Giving them enough money to **buy between 1/2 to 1/3 of the features available** usually works well.
+
+4. Play the game
+    - You (me) play the role of **shop keeper**, answering questions and taking payment when a feature is purchased.
+    - In order to buy a feature, players have to **explain why** they want that feature.
+    - The game continues until **all money is spent** or players are done buying.
+
