@@ -28,7 +28,7 @@ In order for your UI Design to be appropriate, three things have to happen:
 
 ### **1. Defy the Generic**
 
-\*If no one hates your website, **no one loves it either\***
+*If no one hates your website, **no one loves it either***
 
 - Generic UI Design is **easy**, **but** it's **unmemorable**
 

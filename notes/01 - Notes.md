@@ -1,6 +1,6 @@
 # UX & Web Design Master Course: Strategy, Design, Development
 
-*PDF e-book in root folder to follow this course*
+*PDF e-book in attachments that follows this course*
 
 ---
 
